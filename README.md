@@ -1,5 +1,3 @@
-![Aspiring Developer](https://github.com/pygitdev/pygitdev/blob/main/profile%20card.png?raw=true)
-
 ## Hey, there
 - I am varun, in a few lines about me.
 - I am studying B.Tech CSE  At [@ParulUniversity](https://paruluniversity.ac.in/).
