@@ -3,7 +3,6 @@
 </p>
 <h1 align="center"> Hi 👋, I'm Varun </h1>
 <h3 align="center">Aspiring Python Full Stack Developer From India.</h3>
-<img src="https://komarev.com/ghpvc/?username=pygitdev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="count badge" />
 
 - 🔭 I’m currently working on [github-profile-readme-generator](https://github.com/pygitdev/github-profile-readme-generator) 
 - 🤝 I’m looking for help with [github-profile-readme-generator](https://github.com/pygitdev/github-profile-readme-generator) 
