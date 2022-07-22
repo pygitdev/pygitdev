@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?size=20&font=Edu+VIC+WA+NT+Beginner&duration=5000&color=FF6263&size=32&center=true&vCenter=true&width=800&height=50&lines=I'm+Varun+borra;Python+Developer;Aspiring+Full+stack+Develpoer" width="100%">
 
-- 🔭 I’m currently working on [LMS](https://github.com/) 
+- 🔭 I’m currently working on [Medical-Doc-Extracter](https://github.com/pygitdev/Medical-Doc-Extracter) 
 - 👯 I’m looking to collaborate on [github-profile-readme-generator](https://github.com/pygitdev/github-profile-readme-generator) 
 - 🤝 I’m looking for help with [github-profile-readme-generator](https://github.com/pygitdev/github-profile-readme-generator) 
 - 🌱 I’m currently learning  python full stack
